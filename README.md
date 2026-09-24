@@ -77,13 +77,3 @@ QuanLyCuaHang/
 - **Huy Phan Quoc** - [huyphanquoc1208](https://github.com/huyphanquoc1208)
 
 ---
-
-## 📝 Đóng góp (Contributing)
-
-Mọi đóng góp, báo cáo lỗi hoặc đề xuất tính năng mới đều rất hoan nghênh! Hãy tạo một `Issue` hoặc gửi `Pull Request` để góp phần hoàn thiện dự án.
-
----
-
-## 📄 Giấy phép (License)
-
-Dự án này được phân phối dưới giấy phép **MIT**. Xem tệp `LICENSE` để biết thêm chi tiết.
